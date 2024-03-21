@@ -1,5 +1,9 @@
 # AzureFuncApp-DynDNS
-Azure Function App to Mimic DynDNS Server to update Azure Zone records
+Azure Function App Function to Mimic a DynDNS Server to update Azure Zone records.
+
+If you are using Azure as your DNS Provider, you have had to create a sub-domain and delegate sub-domain to a DNS Provider that will support the Dynamic updates to support your clients with Dynamic IP Assignments.  This is a PowerShell Script that is a Azure Functio App Function that your Dynamic DNS Client can connect to and submit DNS Changes to your Azure DNS Zone. 
+
+I am assiming some Azure Knowledge, that you already have your DNS Zone setup in Azure and you know how to configure your Dynamic DNS Client to talk to a DynDNS Server.  I will Provide some sample configurations that I have used. 
 
 ## Creating and setting up the Function App Resouce
 
