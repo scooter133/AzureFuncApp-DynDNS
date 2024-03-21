@@ -115,10 +115,10 @@ to allow the Function App to have permissions to the DNS Records, we need to giv
 ![image](https://github.com/scooter133/AzureFuncApp-DynDNS/assets/284919/29617805-bc08-47a6-b8e7-7b93fa29b9ed)
 
 ### Access Security - Zone | IAM
-![image](https://github.com/scooter133/AzureFuncApp-DynDNS/assets/284919/f82bba82-68eb-4937-be66-50afbbff8682)
+![image](https://github.com/scooter133/AzureFuncApp-DynDNS/assets/284919/62a7568f-fae7-424d-85c4-0d7cc6e2f22a)
 
 ### Add Role Assignment | Role
-![image](https://github.com/scooter133/AzureFuncApp-DynDNS/assets/284919/a8d9c699-38ae-4b9a-bea1-9f584469b711)
+![image](https://github.com/scooter133/AzureFuncApp-DynDNS/assets/284919/87e46b13-ba82-41f7-963e-92989b20ecdd)
 
 ### Add Role Assignment | Members
 ![image](https://github.com/scooter133/AzureFuncApp-DynDNS/assets/284919/a6333dac-cf73-4dab-8538-dc1c441b5f2a)
